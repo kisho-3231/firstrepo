@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1653131218,,"wq!"
+|2,0,1653134655,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,24 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/hooks/add
-|4,48,1,0,1653131218,"~/.git/hooks/add"
-'1  5  0  ~/.git/hooks/post-commit
-|4,49,5,0,1653130485,"~/.git/hooks/post-commit"
-'2  1  0  ~/.git/hooks/post-update.sample
-|4,50,1,0,1653130255,"~/.git/hooks/post-update.sample"
+'0  3  0  ~/.git/hooks/post-commit
+|4,48,3,0,1653134655,"~/.git/hooks/post-commit"
+'1  1  0  ~/.git/hooks/add
+|4,49,1,0,1653131218,"~/.git/hooks/add"
+'2  5  0  ~/.git/hooks/post-commit
+|4,50,5,0,1653130485,"~/.git/hooks/post-commit"
+'3  5  0  ~/.git/hooks/post-commit
+|4,51,5,0,1653130485,"~/.git/hooks/post-commit"
+'4  1  0  ~/.git/hooks/post-update.sample
+|4,52,1,0,1653130255,"~/.git/hooks/post-update.sample"
 
 # Jumplist (newest first):
+-'  3  0  ~/.git/hooks/post-commit
+|4,39,3,0,1653134655,"~/.git/hooks/post-commit"
+-'  5  0  ~/.git/hooks/post-commit
+|4,39,5,0,1653134564,"~/.git/hooks/post-commit"
+-'  1  0  ~/.git/hooks/add
+|4,39,1,0,1653131218,"~/.git/hooks/add"
 -'  1  0  ~/.git/hooks/add
 |4,39,1,0,1653131218,"~/.git/hooks/add"
 -'  5  0  ~/.git/hooks/post-commit
@@ -43,6 +53,16 @@
 |4,39,1,0,1653130290,"~/.git/hooks/post-commit"
 -'  1  0  ~/.git/hooks/post-commit
 |4,39,1,0,1653130290,"~/.git/hooks/post-commit"
+-'  1  0  ~/.git/hooks/post-commit
+|4,39,1,0,1653130290,"~/.git/hooks/post-commit"
+-'  1  0  ~/.git/hooks/post-update.sample
+|4,39,1,0,1653130255,"~/.git/hooks/post-update.sample"
+-'  1  0  ~/.git/hooks/post-update.sample
+|4,39,1,0,1653130255,"~/.git/hooks/post-update.sample"
+-'  1  0  ~/.git/hooks/post-update.sample
+|4,39,1,0,1653130255,"~/.git/hooks/post-update.sample"
+-'  1  0  ~/.git/hooks/post-update.sample
+|4,39,1,0,1653130255,"~/.git/hooks/post-update.sample"
 -'  1  0  ~/.git/hooks/post-update.sample
 |4,39,1,0,1653130255,"~/.git/hooks/post-update.sample"
 -'  1  0  ~/.git/hooks/post-update.sample
@@ -54,16 +74,18 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/hooks/post-commit
+	*	1653134652	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	4	37
+	+	2	45
+	+	4	0
+
 > ~/.git/hooks/add
 	*	1653131210	0
 	"	1	0
-
-> ~/.git/hooks/post-commit
-	*	1653130482	0
-	"	5	0
-	^	5	0
-	.	4	37
-	+	4	37
 
 > ~/.git/hooks/post-update.sample
 	*	1653130145	0
